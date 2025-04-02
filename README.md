@@ -56,3 +56,10 @@ corr = corr_matrix["BTC-USD"].sort_values(ascending=False)
 1. Clone or download the repository to your local machine, or directly open the notebook in **Google Colab**.
 2. Install the required libraries listed in the **Requirements** section.
 3. Run the `.ipynb` file in your Jupyter Notebook or Google Colab environment.
+
+## Use Cases
+1. Optimizing the distribution of assets in a portfolio to minimize risk. By evaluating correlations between assets, it helps determine which assets should be included or excluded to balance risk.
+2. Assessing how different assets behave in relation to each other, helping to understand potential risks during extreme market conditions. This information is crucial for building strategies that minimize risk during volatile periods.
+3. Diversifying assets by evaluating which assets complement each other and which may increase the overall risk of the portfolio. Understanding asset relationships helps implement a better diversification strategy.
+4. Analyzing the relationship between different assets (equities, forex, cryptocurrencies, etc.), helping to understand which assets move together or behave differently. This analysis helps make better decisions when allocating assets in a portfolio.
+5. Monitoring risk continuously. As market conditions change, the correlation between assets also changes, allowing for real-time analysis and adjustments to the portfolio as new data comes in.
